@@ -29,6 +29,7 @@
                 </div>
             @endif
         </div>
+        <div><h2>Team fixbug is going to destroy this project</h2></div>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
     </body>
